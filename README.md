@@ -1,7 +1,5 @@
 # Hi there, I'm Divine Erhomonsele 👋
 
-![Profile views](https://gpvc.arturio.dev/divinejoshua)
-
 ## About Me
 
 I'm a passionate software developer with a keen interest in building scalable and efficient applications. I enjoy working with a variety of technologies and am always eager to learn and explore new areas in the field of software development.
