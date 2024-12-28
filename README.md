@@ -6,12 +6,6 @@
 
 I'm a passionate software developer with a keen interest in building scalable and efficient applications. I enjoy working with a variety of technologies and am always eager to learn and explore new areas in the field of software development.
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Technology or Skill You're Learning]
-- 💬 Ask me about [Your Expertise or Interests]
-- 📫 How to reach me: [Your Email Address]
-- ⚡ Fun fact: [A Fun Fact About You]
-
 ## Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
