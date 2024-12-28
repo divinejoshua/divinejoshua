@@ -1,4 +1,4 @@
-# Hi there, I'm Joshua 👋
+# Hi there, I'm Divine Erhomonsele 👋
 
 ![Profile views](https://gpvc.arturio.dev/divinejoshua)
 
